@@ -1,0 +1,1 @@
+Message Digest bits :8, Average time required:0.0318689408 s and average guesses:259
